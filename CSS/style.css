@@ -69,12 +69,12 @@ nav {
 
 .logo {
     float: left;
-    padding-left: 2%;
+    padding-left: 1%;
 }
 
 #logo{
     position: relative;
-    top: -8px;
+    top: -9px;
     width: 34px;
     height: auto;
 }
@@ -135,11 +135,6 @@ nav {
     color: #68420004;
 }
 
-.img1 {
-    position: relative;
-    text-align: center;
-}
-
 .icons{
     position: relative;
     bottom: -6px;
@@ -147,5 +142,7 @@ nav {
 
 .tell{
     position: relative;
+    text-decoration: underline;
+    bottom: 1px;
     left: 9px;
 }
