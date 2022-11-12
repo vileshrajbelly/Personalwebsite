@@ -16,11 +16,6 @@ body {
   'opsz' 48
 }
 
-strong{
-    position: relative;
-    bottom: -6px;
-}
-
 h1 {
     margin-top: 0px;
     margin-bottom: 0px;
@@ -29,8 +24,6 @@ h1 {
 
 a {
     color: #684200;
-    font-size: 109%;
-    text-decoration: none;
 }
 
 a:hover {
@@ -145,4 +138,14 @@ nav {
 .img1 {
     position: relative;
     text-align: center;
+}
+
+.icons{
+    position: relative;
+    bottom: -6px;
+}
+
+.tell{
+    position: relative;
+    left: 9px;
 }
